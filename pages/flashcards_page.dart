@@ -18,7 +18,7 @@ class _FlashcardsPageState extends State<FlashcardsPage> {
   String errorMessage = '';
 
   // OpenAI API key
-  final String openAIAPIKey = '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';
+  final String openAIAPIKey = 'fake api key for mid-point submission';
   final String openAIEndpoint = 'https://api.openai.com/v1/chat/completions';
 
   //fetchh flashcards from OpenAI API
